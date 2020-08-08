@@ -11,17 +11,17 @@
 
 ### Connect with me:
 
-<img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<img align="left" alt="adityastomar67 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<img align="left" alt="adityastomar67 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<img align="left" alt="adityastomar67 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<img align="left" alt="adityastomar67 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<img align="left" alt="adityastomar67 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-<img align="left" alt="adityastomar67 | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
-<img align="left" alt="adityastomar67 | BeHance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/behance.svg" />][behance]
-<img align="left" alt="adityastomar67 | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dribbble.svg" />][dribbble]
-<img align="left" alt="adityastomar67 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
-<img align="left" alt="adityastomar67 | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dev-dot-to.svg" />][dev.to]
+[<img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="adityastomar67 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="adityastomar67 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="adityastomar67 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="adityastomar67 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="adityastomar67 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="adityastomar67 | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="adityastomar67 | BeHance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/behance.svg" />][behance]
+[<img align="left" alt="adityastomar67 | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dribbble.svg" />][dribbble]
+[<img align="left" alt="adityastomar67 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
+[<img align="left" alt="adityastomar67 | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dev-dot-to.svg" />][dev.to]
 <br />
 
 ### Languages and Tools:
