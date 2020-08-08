@@ -8,8 +8,6 @@
 - ⚡ Fun fact: I love my coffee and snippets / codes
 
 
-[[Aditya Singh Tomar's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/adityastomar67)
-
 ### Connect with me:
 
 [<img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
