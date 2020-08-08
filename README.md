@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya - aka [Wierdo][website] 👋
+### Hi there, I'm Aditya[![Aditya Singh Tomar's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/adityastomar67) - aka [Wierdo][website] 👋
 
 ## I'm a Boyfriend, Brother, Son, Developer, and Student!
 - 🔭 I’m currently working on a [Language Skills][website]!
@@ -17,7 +17,7 @@
 [<img align="left" alt="adityastomar67 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="adityastomar67 | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="adityastomar67 | BeHance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/behance.svg" />][behance]
-[<img align="left" alt="adityastomar67 | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dribbble.svg" />][dribble]
+[<img align="left" alt="adityastomar67 | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dribbble.svg" />][dribbble]
 [<img align="left" alt="adityastomar67 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
 [<img align="left" alt="adityastomar67 | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dev-dot-to.svg" />][dev.to]
 <br />
@@ -82,6 +82,6 @@
 [facebook]: https://www.facebook.com/manu.tomar.1614
 [stackoverflow]: https://stackoverflow.com/users/13868222
 [behance]: https://www.behance.net/adityastomc9da
-[dribble]: https://dribbble.com/adityastaomar67
+[dribbble]: https://dribbble.com/adityastaomar67
 [medium]: https://medium.com/@adityastomar67
 [dev.to]: https://dev.to/adityastomar67
