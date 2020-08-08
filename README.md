@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya[![Aditya Singh Tomar's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/adityastomar67) - aka [Wierdo][website] 👋
+### Hi there, I'm Aditya - aka [Wierdo][website] 👋
 
 ## I'm a Boyfriend, Brother, Son, Developer, and Student!
 - 🔭 I’m currently working on a [Language Skills][website]!
@@ -6,6 +6,9 @@
 - 👯 I’m looking for feedbacks from other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and develop new skills
 - ⚡ Fun fact: I love my coffee and snippets / codes
+
+
+[![Aditya Singh Tomar's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/adityastomar67)
 
 ### Connect with me:
 
