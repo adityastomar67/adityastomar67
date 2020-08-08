@@ -87,4 +87,4 @@
 [dribbble]: https://dribbble.com/adityastaomar67
 [medium]: https://medium.com/@adityastomar67
 [dev.to]: https://dev.to/adityastomar67
-[[weird]: https://dictionary.cambridge.org/dictionary/english/weirdo
+[weird]: https://dictionary.cambridge.org/dictionary/english/weirdo
