@@ -56,7 +56,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityastomar67)]
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityastomar67)
 
 [website]: #
 [twitter]: https://twitter.com/AdityaS32184948
