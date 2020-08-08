@@ -56,7 +56,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<img align="left" alt="adityastomar67's Github Stats" src="https://github-readme-stats.adityastomar67.vercel.app/api?username=adityastomar67&show_icons=true&hide_border=true" />
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityastomar67)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: #
 [twitter]: https://twitter.com/AdityaS32184948
