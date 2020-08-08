@@ -7,7 +7,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and develop new skills
 - ⚡ Fun fact: I love my coffee and snippets / codes
 
-[Aditya Singh Tomar's DEV Profile][https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg]
 
 ### Connect with me:
 
