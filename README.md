@@ -17,7 +17,7 @@
 [<img align="left" alt="adityastomar67 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="adityastomar67 | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="adityastomar67 | BeHance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/behance.svg" />][behance]
-[<img align="left" alt="adityastomar67 | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dribble.svg" />][dribble]
+[<img align="left" alt="adityastomar67 | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dribbble.svg" />][dribble]
 [<img align="left" alt="adityastomar67 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
 [<img align="left" alt="adityastomar67 | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dev-dot-to.svg" />][dev.to]
 <br />
