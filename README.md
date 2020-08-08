@@ -1,21 +1,25 @@
 ### Hi there, I'm Aditya - aka [Wierdo][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Boyfriend, Brother, Son, Developer, and Student!
 - 🔭 I’m currently working on a [Language Skills][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything possible to take the Best out of Me 🤣
 - 👯 I’m looking for feedbacks from other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and develop new skills
 - ⚡ Fun fact: I love my coffee and snippets / codes
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="adityastomar67 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="adityastomar67 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="adityastomar67 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="adityastomar67 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="adityastomar67 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="adityastomar67 | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="adityastomar67 | BeHance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/behance.svg" />][behance]
+[<img align="left" alt="adityastomar67 | Dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dribble.svg" />][dribble]
+[<img align="left" alt="adityastomar67 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
+[<img align="left" alt="adityastomar67 | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dev-dot-to.svg" />][dev.to]
 <br />
 
 ### Languages and Tools:
@@ -55,20 +59,20 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Microinteractions: Password Validation Animation](https://dev.to/adityastomar67/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/adityastomar67/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/adityastomar67/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/adityastomar67/emmet-part-2-advanced-4c65)
+- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/adityastomar67/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="adityastomar67's Github Stats" src="https://github-readme-stats.adityastomar67.vercel.app/api?username=adityastomar67&show_icons=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
+[website]: #
 [twitter]: https://twitter.com/AdityaS32184948
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://youtube.com/adityastomar67
 [instagram]: https://instagram.com/aditya__st/
 [linkedin]: https://linkedin.com/in/aditya-singh-tomar-3200b31a0/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
@@ -77,3 +81,7 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [facebook]: https://www.facebook.com/manu.tomar.1614
 [stackoverflow]: https://stackoverflow.com/users/13868222
+[behance]: https://www.behance.net/adityastomc9da
+[dribble]: https://dribbble.com/adityastaomar67
+[medium]: https://medium.com/@adityastomar67
+[dev.to]: https://dev.to/adityastomar67
