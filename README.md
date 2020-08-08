@@ -56,11 +56,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=adityastomar67&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityastomar67&layout=compact" />
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityastomar67&layout=compact" />
 </a>
 
 [website]: #
