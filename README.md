@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya - aka [Weirdo][weird] 👋<img alt="adityastomar67 | Dev Logo" height="30px" width="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
+### Hi there, I'm Aditya - aka [Weirdo][weird] 👋<img alt="adityastomar67 | Dev Logo" height="20px" width="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
 
 ## I'm a Boyfriend, Brother, Son, Developer, and Student!
 - 🔭 I’m currently working on my [Language Skills][website]!
