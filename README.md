@@ -48,7 +48,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [How To Get Google Drive Storage for FREE!!! (Without .EDU Mail)](https://medium.com/@adityastomar67/how-to-get-google-drive-storage-for-free-without-edu-mail-5f41b5972186?source=rss-5122eb5cfcf6------2)
+- [Top 5 Python IDE in 2020](https://dev.to/adityastomar67/top-5-python-ide-in-2020-4bia)
+- [How to prevent Google Colab from disconnecting ?(Updated-July 2020)](https://medium.com/@adityastomar67/how-to-prevent-google-colab-from-disconnecting-updated-july-2020-ab5b06de6c3d?source=rss-5122eb5cfcf6------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityastomar67&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
