@@ -8,9 +8,6 @@
 - ⚡ Fun fact: I love my coffee and snippets / codes
 
 
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
 ### Connect with me:
 
 [<img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
