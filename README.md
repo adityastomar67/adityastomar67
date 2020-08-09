@@ -54,12 +54,8 @@
 - [Emmet Part 2 - Advanced](https://dev.to/adityastomar67/emmet-part-2-advanced-4c65)
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/adityastomar67/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
-
 ---
-<img align="left" alt="Aditya's GitHubs Stats" src="https://github-readme-stats.vercel.app/api?username=adityastomar67&show_icons=true&hide_border=true" />
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityastomar67&layout=compact" />
-</a>
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityastomar67&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: #
 [twitter]: https://twitter.com/AdityaS32184948
