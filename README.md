@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya - aka [Weirdo][weird] 👋<img alt="adityastomar67 | Dev Logo" height="20px" width="40px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
+### Hi there, I'm Aditya - aka [Nerd][weird] 👋<img alt="adityastomar67 | Dev Logo" height="20px" width="40px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
 
 ## I'm a Boyfriend, Brother, Son, Developer, and Student!
 - 🔭 I’m currently working on my [Language Skills][website]!
@@ -68,4 +68,4 @@
 [dribbble]: https://dribbble.com/adityastaomar67
 [medium]: https://medium.com/@adityastomar67
 [dev.to]: https://dev.to/adityastomar67
-[weird]: https://dictionary.cambridge.org/dictionary/english/weirdo
+[weird]: https://dictionary.cambridge.org/dictionary/english/nerd
