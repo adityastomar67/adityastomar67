@@ -1,11 +1,11 @@
 ### Hi there, I'm Aditya - aka [Nerd][weird] 👋<img alt="adityastomar67 | Dev Logo" height="20px" width="40px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
 
-## I'm a Boyfriend, Brother, Son, Developer, and Student!
-- 🔭 I’m currently working on my [Language Skills][website]!
-- 🌱 I’m currently learning everything possible to take the Best out of Me 🤣
+## I'm a Boyfriend, Brother, Son, Developer, and a Student!
+- 🔭 I’m currently working on my Language Skills
+- 🌱 I’m trying to learn everything possible🤣
 - 👯 I’m looking for feedbacks from other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects and develop new skills
-- ⚡ Fun fact: I love my coffee and snippets / codes
+- ⚡ Fun fact: I love my coffee and snippets 
 
 
 ### Connect with me:
