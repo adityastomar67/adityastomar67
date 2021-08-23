@@ -1,10 +1,10 @@
-### Hi there, I'm Aditya - aka [Nerd][weird] 👋<img alt="adityastomar67 | Dev Logo" height="20px" width="40px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
+### Hi there, I'm Aditya - aka [Adi] 👋<img alt="adityastomar67 | Dev Logo" height="20px" width="40px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
 
-## I'm a Boyfriend, Brother, Son, Developer, and a Student!
+## I'm a Developer, and a Student!
 - 🔭 I’m currently working on my Language Skills
-- 🌱 I’m trying to learn everything possible🤣
+- 🌱 Linux comes under my very few of the hobbies
 - 👯 I’m looking for feedbacks from other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects and develop new skills
+- 🥅 2021 Goals: Contribute more to Open Source projects and develop new skills
 - ⚡ Fun fact: I love my coffee and snippets 
 
 
@@ -48,20 +48,13 @@
 <br />
 <br />
 
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How To Get Google Drive Storage for FREE!!! (Without .EDU Mail)](https://medium.com/@adityastomar67/how-to-get-google-drive-storage-for-free-without-edu-mail-5f41b5972186?source=rss-5122eb5cfcf6------2)
-- [Top 5 Python IDE in 2020](https://dev.to/adityastomar67/top-5-python-ide-in-2020-4bia)
-- [How to prevent Google Colab from disconnecting ?(Updated-July 2020)](https://medium.com/@adityastomar67/how-to-prevent-google-colab-from-disconnecting-updated-july-2020-ab5b06de6c3d?source=rss-5122eb5cfcf6------2)
-<!-- BLOG-POST-LIST:END -->
 ---
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityastomar67&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: #
 [twitter]: https://twitter.com/AdityaS32184948
 [youtube]: #
-[instagram]: https://instagram.com/aditya__st/
+[instagram]: https://instagram.com/singhhhx/
 [linkedin]: https://linkedin.com/in/aditya-singh-tomar-3200b31a0/
 [facebook]: https://www.facebook.com/manu.tomar.1614
 [stackoverflow]: https://stackoverflow.com/users/13868222
