@@ -2,10 +2,10 @@
 
 ## I'm a Developer, and a Student!
 - 🔭 I’m currently working on my Language Skills
-- 🌱 Linux comes under my very few of the hobbies
-- 👯 I’m looking for feedbacks from other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects and develop new skills
-- ⚡ Fun fact: I love my coffee and snippets 
+- 🌱 Linux comes under my very few of the Hobbies
+- 👯 I’m looking for feedbacks from other Developers
+- 🥅 2022 Goals: Contribute more to Open Source projects and develop new skills
+- ⚡ Fun fact: I love my coffee and .configs 
 
 
 ### Connect with me:
@@ -46,10 +46,14 @@
 <img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/blob/master/topics/linux/linux.png" />
  -->
 <br />
-<br />
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=adityastomar67&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=adityastomar67&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=adityastomar67&theme=darcula&hide_border=true&background=FFFFFF00">
 
 ---
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityastomar67&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityastomar67&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [website]: #
 [twitter]: https://twitter.com/AdityaS32184948
