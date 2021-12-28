@@ -53,7 +53,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=adityastomar67&theme=darcula&hide_border=true&background=FFFFFF00">
 ---
 
-<!-- [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityastomar67&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityastomar67&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: #
 [twitter]: https://twitter.com/AdityaS32184948
