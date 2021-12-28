@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya - aka [Adi] 👋<img alt="adityastomar67 | Dev Logo" height="20px" width="40px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
+### Hi there, I'm आदित्य - aka [Adi] 👋<img alt="adityastomar67 | Dev Logo" height="20px" width="40px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
 
 ## I'm a Developer, and a Student!
 - 🔭 I’m currently working on my Language Skills
