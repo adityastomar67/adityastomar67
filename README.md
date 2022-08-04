@@ -53,7 +53,7 @@
   <!-- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=adityastomar67&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"> -->
 
 
- <img src ="https://github.com/adityastomar67/adityastomar67/blob/output/github-contribution-grid-snake.gif">
+ <img src ="https://github.com/adityastomar67/adityastomar67/blob/output/github-contribution-grid-snake.svg">
   </p>
 
 <!-- [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityastomar67&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
