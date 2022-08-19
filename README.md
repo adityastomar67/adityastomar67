@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm आदित्य - aka [Adi] 👋<img alt="adityastomar67 | Dev Logo" height="20px" width="40px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /></h1>
+<h1 align="center"> Hi there, I'm आदित्य - aka [Adi] 👋<img alt="adityastomar67 | Dev Logo" height="20px" width="40px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /></h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=adityastomar67&label=Profile%20views&color=0e75b6&style=flat" alt="memukherjee" /> </p>
 
 ## I'm a Developer, and a Student!
 - 🔭 I’m currently working on my Language Skills
