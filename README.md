@@ -22,7 +22,7 @@
 [<img align="left" alt="adityastomar67 | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dev-dot-to.svg" />][dev.to]
 <br />
 
-👇 Hit in your console or terminal to connect with me.
+👇 Hit in your console or terminal to connect with me. Like a true programmer
 
 ```bash
 npx adityastomar67
