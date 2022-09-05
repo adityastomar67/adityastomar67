@@ -24,7 +24,7 @@
 
 ### 👇 Hit in your console or terminal to connect with me. Like a true programmer
 
-```bash
+```node
 npx adityastomar67
 ```
 **👆 This command line tool can be found at [npx adityastomar67](https://github.com/adityastomar67/npx-portfolio)**
