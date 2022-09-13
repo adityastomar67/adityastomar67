@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there, I'm आदित्य - aka [Adi] 👋<img alt="adityastomar67 | Dev Logo" height="20px" width="40px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /></h1>
 
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 ## I'm a Developer, and a Student!
 - 🔭 I’m currently working on my Language Skills
 - 🌱 Linux comes under my very few of the Hobbies
@@ -7,9 +9,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects and develop new skills
 - ⚡ Fun fact: I love my coffee and .configs 
 
-
 <!-- ### Connect with me: -->
-
 [<img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="adityastomar67 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="adityastomar67 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -64,6 +64,7 @@ npx adityastomar67
   </p>
 
 <!-- [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityastomar67&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
 <!-- LINKS -->
