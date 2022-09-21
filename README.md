@@ -21,54 +21,21 @@
 <br />
 
 ### 👇 Hit in your console or terminal to connect with me. Like a true programmer
-
 ```node
 npx adityastomar67
 ```
 **👆 This command line tool can be found at [npx adityastomar67](https://github.com/adityastomar67/npx-portfolio)**
-
-<!-- ### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Vue" width="26px" src="https://github.com/github/explore/blob/master/topics/vue/vue.png" />
-<img align="left" alt="Angular" width="26px" src="https://github.com/github/explore/blob/master/topics/angular/angular.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="C-Programming Language" width="26px" src="https://github.com/github/explore/blob/master/topics/c/c.png" />
-<img align="left" alt="C++" width="26px" src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/master/topics/python/python.png" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/blob/master/topics/linux/linux.png" />
- -->
 <br />
 
 <p align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=adityastomar67&theme=gruvbox&hide_border=true&background=FFFFFF00">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=adityastomar67&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <!-- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=adityastomar67&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"> -->
-
-
- <img src ="https://github.com/adityastomar67/adityastomar67/blob/output/github-contribution-grid-snake.svg">
-  </p>
-
-<!-- [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityastomar67&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=adityastomar67&theme=github-light&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=adityastomar67&show_icons=true&count_private=true&theme=github-light&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github.com/adityastomar67/adityastomar67/blob/output/github-contribution-grid-snake.svg">
+</p>
 
 <!-- LINKS -->
 [website]: #
 [twitter]: https://twitter.com/singhhhx
-[youtube]: #
 [instagram]: https://instagram.com/singhhhx/
 [linkedin]: https://linkedin.com/in/aditya-singh-tomar-3200b31a0/
 [facebook]: https://www.facebook.com/manu.tomar.1614
