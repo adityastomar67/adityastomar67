@@ -27,7 +27,11 @@ npx adityastomar67
 **👆 This command line tool can be found at [npx adityastomar67](https://github.com/adityastomar67/npx-portfolio)**
 <br />
 
+<div align="center">
+
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+</div>
 
 <p align="center">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=adityastomar67&theme=github-light&hide_border=true&background=FFFFFF00">
