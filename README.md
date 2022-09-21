@@ -20,11 +20,11 @@
 [<img align="left" alt="adityastomar67 | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dev-dot-to.svg" />][dev.to]
 <br />
 
-### 👇 Hit in your console or terminal to connect with me. Like a true programmer
+### ↯ Hit in your console or terminal to connect with me. Like a true programmer
 ```node
 npx adityastomar67
 ```
-**👆 This command line tool can be found at [npx adityastomar67](https://github.com/adityastomar67/npx-portfolio)**
+**⬆ This command line tool can be found at [npx adityastomar67](https://github.com/adityastomar67/npx-portfolio)**
 <br />
 
 <div align="center">
