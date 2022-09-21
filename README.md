@@ -24,7 +24,7 @@
 ```node
 npx adityastomar67
 ```
-**⬆ This command line tool can be found at [npx adityastomar67](https://github.com/adityastomar67/npx-portfolio)**
+**⤉ This command line tool can be found at [npx adityastomar67](https://github.com/adityastomar67/npx-portfolio)**
 <br />
 
 <div align="center">
