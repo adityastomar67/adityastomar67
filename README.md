@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on my Language Skills
 - 🌱 Linux comes under my very few of the Hobbies
 - 👯 I’m looking for feedbacks from other Developers
-- 🥅 2022 Goals: Contribute more to Open Source projects and develop new skills
+- 🥅 2023 Goals: Contribute more to Open Source projects and develop new skills
 - ⚡ Fun fact: I love my coffee and .configs 
 
 <!-- ### Connect with me: -->
