@@ -1,3 +1,41 @@
+<!-- Aditya's Aesthetic GitHub Profile -->
+<div align="justify">
+
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello There
+      <br>
+        I'm Aditya, a Student, I like Linux and .configs, but I'm not a fan of Windows.
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.demolab.com?font=Iosevka&duration=7000&pause=1000&color=3196F7&center=true&width=435&lines=There+is+always+one+more+bug+to+fix...;Welcome+to++my+place+on+the+internet.">
+      <br>
+      <b>
+        ~ Aditya Singh Tomar ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
+<br>
+<details>
+<summary><samp><b>More Info</b></samp></summary>
+
+<h2></h2><br>
+
+<!-- Contact Me -->
+<p align="center">
+  <samp>
+    [<a href="https://linktr.ee/adityastomar67">LinkTree</a>]
+    [<a href="https://instagram.com/singhhhx">Instagram</a>]
+    [<a href="mailto:adityastomar67@gmail.com">E-Mail</a>]
+  </samp>
+</p>
+
+<h2></h2><br>
+
 <h1 align="center"> Hi there, I'm आदित्य - aka [Adi] 👋<img alt="adityastomar67 | Dev Logo" height="20px" width="40px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /></h1>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
